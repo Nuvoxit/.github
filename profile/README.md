@@ -1,6 +1,9 @@
-Hi there 👋
-Brief Explanation About the Organization
+## Hi there 👋
 
-Nuvoxit is an organization focused on developing innovative, open-source technologies for healthcare and medical research. Our work includes building a Hospital Information System (HIS) to improve healthcare management, alongside exploring healthcare research, bioinformatics, and data-driven solutions.
+# Brief Explanation About the Organization
 
-As development progresses, we plan to launch our Version 1.0 Alpha release. Our goal is to create accessible, reliable, and scalable technologies that support healthcare professionals, researchers, and organizations while contributing to advancements in healthcare and bioinformatics.
+**Nuvoxit** is an open-source organization focused on developing software projects and conducting research in **healthcare, bioinformatics, and related technologies**.
+
+We create open-source products, tools, and experimental projects for learning, research, and community collaboration. Our current work includes the development of a **Hospital Information System (HIS)**, while we also explore areas such as healthcare technology, biomedical data, bioinformatics, and computational research.
+
+Our projects are developed openly, with the goal of encouraging collaboration, experimentation, knowledge sharing, and further research within the open-source community.
